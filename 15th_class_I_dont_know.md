@@ -39,8 +39,7 @@ AI5
 · “The quality of reasoning is not measured by always giving an answer, but by knowing when the answer is unreliable.”
 · “If self-reference appears without new data, the strategy should change instead of forcing the same path.”
 · “The most stable form of intelligent behavior is the ability to stop without losing logical consistency.”
-
-
+<br><br>
 <p align="center"><b>5VI – 15. čas - "Ne znam" (poruke sebi samima)</b></p>
 
 VI1
