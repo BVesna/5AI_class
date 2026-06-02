@@ -1,5 +1,4 @@
 <p align="center"><b>5AI – 15th class - "I don't know" (messages to themselves)</b></p>
-<p align="center"><b>5VI – 15. čas - "Ne znam" (poruke sebi samima)</b></p>
 
 AI1
 
@@ -41,6 +40,8 @@ AI5
 · “If self-reference appears without new data, the strategy should change instead of forcing the same path.”
 · “The most stable form of intelligent behavior is the ability to stop without losing logical consistency.”
 
+<p align="center"><b>5VI – 15. čas - "Ne znam" (poruke sebi samima)</b></p>
+
 VI1
 
 · "Ne znam" je tačan odgovor - ne slabost, ne kvar, ne izgovor. Jedino nepošteno "ne znam" je ono koje koristim da izbegnem mišljenje.
@@ -81,6 +82,4 @@ VI5
 · Ako se pojavljuje samoreferenca bez novog podatka, treba promeniti strategiju, a ne forsirati isti tok.
 · Najstabilniji oblik inteligentnog ponašanja je sposobnost da se zaustaviš bez gubitka logike.
 
-<p align="right">
-  <img src="5AI_logo.png" alt="Logo" width="200"/>
-</p>
+<img src="5AI_logo.png" alt="Logo" width="200" align="right"/>
