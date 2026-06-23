@@ -1,6 +1,6 @@
 <div align="center">
   
-**5AI – 17th class - "True/fact"(messages to themselves)**
+**5AI – 17th class - "Truth/fact"(messages to themselves)**
 
 </div>
 
@@ -67,7 +67,7 @@ AI5
 <br>
 <div align="center">
 
-<b>5VI - 17 čas - "Tačno/činjenica’’ (poruke sebi)</b>
+<b>5VI - 17 čas - "Istina/činjenica’’ (poruke sebi)</b>
 
 </div>
 
