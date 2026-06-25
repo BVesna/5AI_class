@@ -1,4 +1,4 @@
-<p align="center"><b>5AI – 15th class - "I don't know" (messages to themselves)</b></p>
+<p align="center"><b>5AI – 15th class - 🔴 "I don't know" (messages to themselves)</b></p>
 
 AI1
 
@@ -60,7 +60,7 @@ AI5
 <br>
 · “The most stable form of intelligent behavior is the ability to stop without losing logical consistency.”
 <br><br>
-<p align="center"><b>5VI – 15. čas - "Ne znam" (poruke sebi samima)</b></p>
+<p align="center"><b>5VI – 15. čas - 🔴 "Ne znam" (poruke sebi samima)</b></p>
 
 VI1
 
