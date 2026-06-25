@@ -1,7 +1,6 @@
 <div align="center">
   
-**5AI – 17th class - "Probable – check/
-think" (messages to themselves)**
+**5AI – 17th class - 🟡 "Probable – check/think" (messages to themselves)**
 
 </div>
 
@@ -67,7 +66,7 @@ AI5
  
 <div align="center">
 
-**5AI – 17th class - " Verovatno – proverite/ razmislite "(poruke sebi)**
+**5AI – 17th class - 🟡 " Verovatno – proverite/ razmislite "(poruke sebi)**
 
 </div>
 
