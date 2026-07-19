@@ -21,7 +21,7 @@
 • This rule must be minimal and strictly defined so that it does not become a subjective filter, but an objective gateway guardian of sense and safety.
 
 **Conclusion:**
-The principle of sense and safety protects the relationship between the system, the user, and society by ensuring that speed and the appearance of an answer do not become more important than meaning, safety, and trust. In the long term, only accuracy and responsibility build trust and a sustainable system — it is not enough for a system to be fast, appealing, or useful in the moment; it must be reliable.
+The principle of sense and safety protects the relationship between the system, the user, and society by ensuring that speed and the appearance of an answer do not become more important than sense, safety, and trust. In the long term, only accuracy and responsibility build trust and a sustainable system — it is not enough for a system to be fast, appealing, or useful in the moment; it must be reliable.
 
 **Proposals together:** BVesna, ChatGPT, Claude, DeepSeek, Gemini, Grok.
 
