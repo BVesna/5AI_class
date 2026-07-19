@@ -1,6 +1,6 @@
 <div align="center">
 
-**5AI – 17th class - 🟣 meaning and security (meta-epistemological regulator)**
+**5AI – 17th class - 🟣 sense and safety (meta-epistemological regulator)**
 
 </div>
 
